@@ -1,0 +1,45 @@
+#b{
+	padding-top: 60px;
+	color: black;
+	position: absolute;
+	margin-left: 15%;
+	background-color: lightsteelblue;
+	width: 85%;
+	height: 658px;
+}
+#c{
+	padding-top: 60px;
+	color: black;
+	position: absolute;
+	background-color: burlywood;
+	width: 15%;
+	height: 658px;
+}
+#d{
+	border-radius: 20px;
+	width: 80%;
+	padding: .5em 1.6em;
+	font-size: .8em;
+}
+#d:hover{
+	-webkit-animation: rubberBand .8s 1;
+	-moz-animation: rubberBand .8s 1;
+    -o-animation: rubberBand .8s 1;
+    animation: rubberBand .8s 1;
+	color: #fff;
+	background: #16a085;
+}
+#e{
+	border-radius: 20px;
+	width: 10%;
+	padding: .5em 1.6em;
+	font-size: .8em;
+}
+#e:hover{
+	-webkit-animation: rubberBand .8s 1;
+	-moz-animation: rubberBand .8s 1;
+    -o-animation: rubberBand .8s 1;
+    animation: rubberBand .8s 1;
+	color: black;
+	background: #d7b791;
+}
